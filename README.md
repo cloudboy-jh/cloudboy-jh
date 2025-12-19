@@ -94,7 +94,6 @@ AI code comments in &lt;2 seconds
 
 **environment**
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=for-the-badge)
