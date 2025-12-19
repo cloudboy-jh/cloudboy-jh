@@ -24,46 +24,50 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 
 <table>
 <tr>
-<td width="50%">
-
-**[Pact](https://github.com/cloudboy-jh/pact)**
-<br>
-Cross-platform dev environment manager
+<td align="center" width="33%">
+<a href="https://github.com/cloudboy-jh/pact">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/pact/master/Pact-readme-logo.png" width="200" alt="Pact"/>
+</a>
 <br><br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Cross-Platform](https://img.shields.io/badge/Cross--Platform-success?style=flat-square)
-
+<b>Pact</b>
+<br>
+Your portable dev identity
+<br><br>
+<a href="https://github.com/cloudboy-jh/pact">
+<img src="https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=58a6ff" alt="Stars"/>
+</a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
 </td>
-<td width="50%">
-
-**[Churn](https://github.com/cloudboy-jh/churn)**
-<br>
-Shipped code analysis · 70-90% API cost reduction
+<td align="center" width="33%">
+<a href="https://github.com/cloudboy-jh/churn">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/churn/master/assets/churnreadmelogonew.png" width="200" alt="Churn"/>
+</a>
 <br><br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-Native-black?style=flat-square)
-
+<b>Churn</b>
+<br>
+Your agent's favorite context layer
+<br><br>
+<a href="https://github.com/cloudboy-jh/churn">
+<img src="https://img.shields.io/github/stars/cloudboy-jh/churn?style=flat-square&color=ff5656" alt="Stars"/>
+</a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Annotr](https://github.com/cloudboy-jh/annotr)**
-<br>
-Automated code commenting
+<td align="center" width="33%">
+<a href="https://github.com/cloudboy-jh/annotr">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/annotr/main/annotr-logo.png" width="200" alt="Annotr"/>
+</a>
 <br><br>
-![Automation](https://img.shields.io/badge/Automation-purple?style=flat-square)
-
-</td>
-<td width="50%">
-
-**LD5** @ Zyris
+<b>Annotr</b>
 <br>
-Dental practice data enrichment platform
+AI code comments in &lt;2 seconds
 <br><br>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
+<a href="https://github.com/cloudboy-jh/annotr">
+<img src="https://img.shields.io/github/stars/cloudboy-jh/annotr?style=flat-square&color=a855f7" alt="Stars"/>
+</a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
 </td>
 </tr>
 </table>
@@ -93,7 +97,7 @@ Dental practice data enrichment platform
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white)
+![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=for-the-badge)
 
 </div>
 
