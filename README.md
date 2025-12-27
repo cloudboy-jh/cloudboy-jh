@@ -14,7 +14,7 @@
 
 ### `$ whoami`
 
-AI-Centric Product Engineer building data infrastructure at **Zyris**. Self-taught — came from tech sales in 2024, learned by shipping.
+AI-Centric Product Engineer building internal software at **Zyris**. Self-taught — came from tech sales in 2024, learned by shipping.
 
 I build focused utilities that solve real workflow problems. No unnecessary abstractions, no framework churn.
 
