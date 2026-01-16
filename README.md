@@ -73,7 +73,7 @@ AI code comments in &lt;2 seconds
 <tr>
 <td align="center" width="33%">
 <a href="https://github.com/cloudboy-jh/porter">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/porter/main/web/src/logos/porter-logo-readme.png" width="200" alt="Porter"/>
+<img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/web/src/logos/porter-logo-readme.png" width="200" alt="Porter"/>
 </a>
 <br><br>
 <b>Porter</b>
