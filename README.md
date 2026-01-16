@@ -70,6 +70,40 @@ AI code comments in &lt;2 seconds
 <img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/cloudboy-jh/porter">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/porter/main/web/src/logos/porter-logo-readme.png" width="200" alt="Porter"/>
+</a>
+<br><br>
+<b>Porter</b>
+<br>
+Universal agent orchestrator for GitHub Issues
+<br><br>
+<a href="https://github.com/cloudboy-jh/porter">
+<img src="https://img.shields.io/github/stars/cloudboy-jh/porter?style=flat-square&color=10b981" alt="Stars"/>
+</a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/cloudboy-jh/letitrip">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/letitrip/main/project-letitrip-logo.png" width="200" alt="letitrip"/>
+</a>
+<br><br>
+<b>letitrip</b>
+<br>
+Let it rip—turn your CDs into a personal Spotify
+<br><br>
+<a href="https://github.com/cloudboy-jh/letitrip">
+<img src="https://img.shields.io/github/stars/cloudboy-jh/letitrip?style=flat-square&color=red" alt="Stars"/>
+</a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</td>
+<td align="center" width="33%">
+</td>
+</tr>
 </table>
 
 ---
