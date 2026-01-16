@@ -81,7 +81,7 @@ AI code comments in &lt;2 seconds
 Universal agent orchestrator for GitHub Issues
 <br><br>
 <a href="https://github.com/cloudboy-jh/porter">
-<img src="https://img.shields.io/github/stars/cloudboy-jh/porter?style=flat-square&color=10b981" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/cloudboy-jh/porter?style=flat-square&color=orange" alt="Stars"/>
 </a>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
