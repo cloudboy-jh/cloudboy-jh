@@ -12,27 +12,50 @@
 
 ---
 
+### `$ whoami`
+
 Building developer tools that eliminate workflow friction. Self-taught — came from tech sales in 2024, learned by shipping.
+
+I build focused utilities that solve real workflow problems. No unnecessary abstractions, no framework churn.
 
 ---
 
 <div align="center">
 
-**Currently Shipping**
+**Now Shipping**
 
-<a href="https://github.com/cloudboy-jh/porter"><img src="https://img.shields.io/github/stars/cloudboy-jh/porter?style=flat-square&color=orange&label=Porter" alt="Porter Stars"/></a>
-<a href="https://github.com/cloudboy-jh/pact"><img src="https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=58a6ff&label=Pact" alt="Pact Stars"/></a>
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/cloudboy-jh/porter">
+<img src="https://img.shields.io/github/stars/cloudboy-jh/porter?style=flat-square&color=orange&label=Porter" alt="Porter Stars"/>
+</a>
+<br>
+<a href="https://github.com/cloudboy-jh/porter/commits/master">
+<img src="https://img.shields.io/github/last-commit/cloudboy-jh/porter?style=flat-square&color=orange&label=last%20commit" alt="Porter Last Commit"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/cloudboy-jh/pact">
+<img src="https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=58a6ff&label=Pact" alt="Pact Stars"/>
+</a>
+<br>
+<a href="https://github.com/cloudboy-jh/pact/commits/master">
+<img src="https://img.shields.io/github/last-commit/cloudboy-jh/pact?style=flat-square&color=58a6ff&label=last%20commit" alt="Pact Last Commit"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<details>
-<summary><b>$ ls ~/projects</b></summary>
+### `$ ls ~/projects`
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/porter">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/porter-logo-readme.png" width="180" alt="Porter"/>
 </a>
@@ -44,7 +67,7 @@ Building developer tools that eliminate workflow friction. Self-taught — came 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/pact">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/pact/master/Pact-readme-logo.png" width="180" alt="Pact"/>
 </a>
@@ -62,7 +85,9 @@ Building developer tools that eliminate workflow friction. Self-taught — came 
 <br>
 
 <details>
-<summary><small>Other Projects</small></summary>
+<summary><b>Other Projects</b></summary>
+
+<br>
 
 <table>
 <tr>
@@ -92,57 +117,22 @@ Building developer tools that eliminate workflow friction. Self-taught — came 
 
 </details>
 
-</details>
-
 ---
 
-<details>
-<summary><b>$ cat stack.txt</b></summary>
-
-<br>
+### `$ cat stack.txt`
 
 <div align="center">
 
-**daily drivers**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-
-**environment**
-
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=for-the-badge)
+| Technology | Why | Projects |
+|------------|-----|----------|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Single-binary, zero deps | Porter, Pact, Annotr |
+| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) | Minimal runtime overhead | Porter UI, Pact UI |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Type safety | Churn |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Reliable data layer | Backends |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Consistent environments | All projects |
+| ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white) | Terminal workflow | Daily driver |
 
 </div>
-
-</details>
-
----
-
-<details>
-<summary><b>$ cat manifesto.md</b></summary>
-
-<br>
-
-```
-Ship utilities, not frameworks
-    ↓
-Solve real workflow pain
-    ↓
-Terminal-first, GUI-optional
-    ↓
-Zero config, instant value
-```
-
-**The approach:**
-- **Ship before you scale** — Get working tools in people's hands fast
-- **Solve one problem well** — No kitchen-sink frameworks
-- **Terminal-native** — CLI first, web UI optional
-- **Portable by default** — Single binary, no installation ceremony
-
-</details>
 
 ---
 
