@@ -35,7 +35,7 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 <br><br>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
 <img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
-<img src="https://img.shields.io/badge/Modal-7B68EE?style=flat-square&logo=modal&logoColor=white" alt="Modal"/>
+<img src="https://img.shields.io/badge/Modal-00D4AA?style=flat-square&logo=modal&logoColor=white" alt="Modal"/>
 </td>
 <td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/pact">
