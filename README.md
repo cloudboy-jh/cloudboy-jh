@@ -91,18 +91,60 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 
 ### `$ cat stack.txt`
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" valign="top">
 
-| Technology | Why | Projects |
-|------------|-----|----------|
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Single-binary, zero deps | Porter, Pact, Annotr |
-| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) | Minimal runtime overhead | Porter UI, Pact UI |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Type safety | Churn |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Reliable data layer | Backends |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Consistent environments | All projects |
-| ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white) | Terminal workflow | Daily driver |
+**Languages**
 
-</div>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<br><sub>Single-binary, zero deps</sub>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br><sub>Type safety without ceremony</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Frontend**
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+<br><sub>Minimal runtime overhead</sub>
+
+![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
+<br><sub>Fast JavaScript runtime</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<br><sub>Consistent environments</sub>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<br><sub>Reliable data layer</sub>
+
+![Modal](https://img.shields.io/badge/Modal-00D4AA?style=flat-square&logo=modal&logoColor=white)
+<br><sub>Serverless execution</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Environment**
+
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+<br><sub>Terminal multiplexing</sub>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br><sub>Daily driver OS</sub>
+
+![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=flat-square)
+<br><sub>Modern terminal emulator</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
