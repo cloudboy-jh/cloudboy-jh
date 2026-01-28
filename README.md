@@ -63,7 +63,7 @@ Cross-platform environment manager that syncs your dev setup across machines
 
 <div align="center">
 
-Currently focused on growing these two projects. Here's where they stand:
+Currently focused on growing these two projects:
 
 <br><br>
 
@@ -93,6 +93,7 @@ Your agent's favorite context layer
 <img src="https://img.shields.io/github/stars/cloudboy-jh/churn?style=flat-square&color=ff5656" alt="Stars"/>
 </a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/cloudboy-jh/annotr">
@@ -107,6 +108,7 @@ AI code comments in &lt;2 seconds
 <img src="https://img.shields.io/github/stars/cloudboy-jh/annotr?style=flat-square&color=a855f7" alt="Stars"/>
 </a>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/cloudboy-jh/letitrip">
@@ -121,6 +123,7 @@ Turn your CDs into a personal Spotify
 <img src="https://img.shields.io/github/stars/cloudboy-jh/letitrip?style=flat-square&color=red" alt="Stars"/>
 </a>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </td>
 </tr>
 </table>
@@ -129,18 +132,33 @@ Turn your CDs into a personal Spotify
 
 ### `$ cat stack.txt`
 
+<div align="center">
+
 **Philosophy:** Terminal-first, dependency-light, portable
 
-I choose tools that enable single-binary distribution and minimal runtime overhead:
+<br>
 
-| Technology | Why I Use It | Powers |
-|------------|--------------|---------|
-| **Go** | Single-binary distribution, zero dependencies | Porter, Pact, Annotr |
-| **Svelte** | Minimal runtime overhead, compiles to vanilla JS | Porter UI, Pact UI |
-| **TypeScript** | Type safety without ceremony | Churn |
-| **PostgreSQL** | Reliable, battle-tested data layer | Project backends |
-| **Docker** | Consistent environments, easy deployment | All projects |
-| **tmux + Ghostty** | Terminal-native workflow | Daily driver |
+**daily drivers**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
+**data & infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**environment**
+
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=for-the-badge)
+
+</div>
 
 ---
 
