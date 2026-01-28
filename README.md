@@ -61,12 +61,18 @@ Cross-platform environment manager that syncs your dev setup across machines
 
 ### `$ now shipping`
 
+<div align="center">
+
 Currently focused on growing these two projects. Here's where they stand:
+
+<br><br>
 
 | Project | Stars | Last Commit | Status |
 |---------|-------|-------------|--------|
 | **Porter** | ![Stars](https://img.shields.io/github/stars/cloudboy-jh/porter?style=flat-square&color=orange&label=%20) | ![Last Commit](https://img.shields.io/github/last-commit/cloudboy-jh/porter?style=flat-square&color=orange&label=%20) | Active development |
 | **Pact** | ![Stars](https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=58a6ff&label=%20) | ![Last Commit](https://img.shields.io/github/last-commit/cloudboy-jh/pact?style=flat-square&color=58a6ff&label=%20) | Active development |
+
+</div>
 
 ---
 
