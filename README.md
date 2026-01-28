@@ -20,37 +20,6 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 
 ---
 
-<div align="center">
-
-**Now Shipping**
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/cloudboy-jh/porter">
-<img src="https://img.shields.io/github/stars/cloudboy-jh/porter?style=flat-square&color=orange&label=Porter" alt="Porter Stars"/>
-</a>
-<br>
-<a href="https://github.com/cloudboy-jh/porter/commits/master">
-<img src="https://img.shields.io/github/last-commit/cloudboy-jh/porter?style=flat-square&color=orange&label=last%20commit" alt="Porter Last Commit"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/cloudboy-jh/pact">
-<img src="https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=58a6ff&label=Pact" alt="Pact Stars"/>
-</a>
-<br>
-<a href="https://github.com/cloudboy-jh/pact/commits/master">
-<img src="https://img.shields.io/github/last-commit/cloudboy-jh/pact?style=flat-square&color=58a6ff&label=last%20commit" alt="Pact Last Commit"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ### `$ ls ~/projects`
 
 <table>
