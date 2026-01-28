@@ -93,20 +93,16 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 
 <div align="center">
 
-**build**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**ship**  
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Modal](https://img.shields.io/badge/Modal-00D4AA?style=flat-square&logo=modal&logoColor=white)
-
-**run**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Ghostty](https://img.shields.io/badge/Ghostty-1a1a2e?style=flat-square)
+| Tech | Purpose | Projects |
+|:---:|:---|:---|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Single-binary, zero deps | Pact, Annotr, letitrip |
+| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) | Minimal runtime overhead | Porter, Pact |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Type safety | Porter, Churn |
+| ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white) | Fast JS runtime | Porter |
+| ![Modal](https://img.shields.io/badge/Modal-00D4AA?style=flat-square&logo=modal&logoColor=white) | Serverless execution | Porter |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Consistent environments | All projects |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Data layer | Backends |
+| ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white) | Terminal workflow | Daily driver |
 
 </div>
 
