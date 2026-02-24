@@ -24,7 +24,7 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 
 <table>
 <tr>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/porter">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/porter-logo-readme.png" width="180" alt="Porter"/>
 </a>
@@ -37,7 +37,23 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 <img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
 <img src="https://img.shields.io/badge/Fly.io-8B5CF6?logo=fly.io&logoColor=white" alt="Fly.io" />
 </td>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/bentotui">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
+</a>
+<br><br>
+<b>BentoTUI</b>
+<br>
+<small>The application framework for Bubble Tea terminal apps</small>
+<br><br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Bubble%20Tea-2E8B57?style=flat-square" alt="Bubble Tea"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/pact">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/pact/master/Pact-readme-logo.png" width="180" alt="Pact"/>
 </a>
