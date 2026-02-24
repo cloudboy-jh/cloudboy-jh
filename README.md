@@ -24,7 +24,7 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 
 <table>
 <tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/porter">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/porter-logo-readme.png" width="180" alt="Porter"/>
 </a>
@@ -37,9 +37,7 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 <img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
 <img src="https://img.shields.io/badge/Fly.io-8B5CF6?logo=fly.io&logoColor=white" alt="Fly.io" />
 </td>
-</tr>
-<tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentotui">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
 </a>
@@ -50,20 +48,6 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-2E8B57?style=flat-square" alt="Bubble Tea"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/pact">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/pact/master/Pact-readme-logo.png" width="180" alt="Pact"/>
-</a>
-<br><br>
-<b>Pact</b>
-<br>
-<small>Cross-platform environment manager that syncs your dev setup across machines</small>
-<br><br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
 </td>
 </tr>
 </table>
@@ -77,21 +61,28 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<a href="https://github.com/cloudboy-jh/pact"><b>Pact</b></a>
+<br>
+<small>Cross-platform environment manager</small>
+<br>
+<img src="https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=00ADD8&label=%20" alt="Stars"/>
+</td>
+<td align="center" width="25%">
 <a href="https://github.com/cloudboy-jh/churn"><b>Churn</b></a>
 <br>
 <small>Agent context layer</small>
 <br>
 <img src="https://img.shields.io/github/stars/cloudboy-jh/churn?style=flat-square&color=ff5656&label=%20" alt="Stars"/>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/cloudboy-jh/annotr"><b>Annotr</b></a>
 <br>
 <small>AI code comments</small>
 <br>
 <img src="https://img.shields.io/github/stars/cloudboy-jh/annotr?style=flat-square&color=a855f7&label=%20" alt="Stars"/>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/cloudboy-jh/letitrip"><b>letitrip</b></a>
 <br>
 <small>CD → Spotify</small>
