@@ -47,7 +47,7 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 <small>The application framework for Bubble Tea terminal apps</small>
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Bubble%20Tea-2E8B57?style=flat-square" alt="Bubble Tea"/>
+<img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
 </td>
 </tr>
 </table>
