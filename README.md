@@ -21,6 +21,7 @@ I build focused tools that solve real problems and stay out of your way.
 
 ### Projects
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
@@ -39,7 +40,7 @@ I build focused tools that solve real problems and stay out of your way.
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/glib-readme-logo.png" width="180" alt="glib"/>
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="180" alt="glib"/>
 </a>
 <br><br>
 <b>glib</b>
@@ -67,6 +68,7 @@ I build focused tools that solve real problems and stay out of your way.
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
