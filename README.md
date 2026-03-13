@@ -2,7 +2,7 @@
 
 # Jack Horton
 
-**Terminal-native tools · Minimal dependencies · Maximum portability**
+**I make tasteful, useful software.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-cloudboy--jh-181717?style=flat-square&logo=github)](https://github.com/cloudboy-jh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jack--s--horton-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jack-s-horton)
@@ -12,32 +12,18 @@
 
 ---
 
-### `$ whoami`
+### About
 
-Building developer tools that eliminate workflow friction. Self-taught — came from tech sales in 2024, learned by shipping.
-
-I build focused utilities that solve real workflow problems. No unnecessary abstractions, no framework churn.
+Self-taught — came from sales in 2024, learned by shipping.
+I build focused tools that solve real problems and stay out of your way.
 
 ---
 
-### `$ ls ~/projects`
+### Projects
 
 <table>
 <tr>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/porter">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/porter-logo-readme.png" width="180" alt="Porter"/>
-</a>
-<br><br>
-<b>Porter</b>
-<br>
-<small>Task orchestration engine that turns GitHub Issues into executable workflows</small>
-<br><br>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
-<img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-</td>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentotui">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
 </a>
@@ -48,6 +34,36 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/glib">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/glib-readme-logo.png" width="180" alt="glib"/>
+</a>
+<br><br>
+<b>glib</b>
+<br>
+<small>Terminal workspace combining project switching, git, and an AI agent session</small>
+<br><br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
+<img src="https://img.shields.io/badge/BentoTUI-v0.2.0-FF5F87?style=flat-square" alt="BentoTUI"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/porter">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/porter-logo-readme.png" width="180" alt="Porter"/>
+</a>
+<br><br>
+<b>Porter</b>
+<br>
+<small>Turns GitHub Issues into executable workflows</small>
+<br><br>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
+<img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -64,28 +80,28 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 <td align="center" width="25%">
 <a href="https://github.com/cloudboy-jh/pact"><b>Pact</b></a>
 <br>
-<small>Cross-platform environment manager</small>
+<small>Cross-platform dev environment manager</small>
 <br>
 <img src="https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=00ADD8&label=%20" alt="Stars"/>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/cloudboy-jh/churn"><b>Churn</b></a>
 <br>
-<small>Agent context layer</small>
+<small>Strips your codebase down to what the agent actually needs</small>
 <br>
 <img src="https://img.shields.io/github/stars/cloudboy-jh/churn?style=flat-square&color=ff5656&label=%20" alt="Stars"/>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/cloudboy-jh/annotr"><b>Annotr</b></a>
 <br>
-<small>AI code comments</small>
+<small>AI-generated inline code comments via tree-sitter</small>
 <br>
 <img src="https://img.shields.io/github/stars/cloudboy-jh/annotr?style=flat-square&color=a855f7&label=%20" alt="Stars"/>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/cloudboy-jh/letitrip"><b>letitrip</b></a>
 <br>
-<small>CD → Spotify</small>
+<small>Rips CDs to Spotify</small>
 <br>
 <img src="https://img.shields.io/github/stars/cloudboy-jh/letitrip?style=flat-square&color=red&label=%20" alt="Stars"/>
 </td>
@@ -93,23 +109,6 @@ I build focused utilities that solve real workflow problems. No unnecessary abst
 </table>
 
 </details>
-
----
-
-### `$ cat stack.txt`
-
-<div align="center">
-
-| Tech | Purpose | Projects |
-|:---:|:---|:---|
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Single-binary, zero deps | Pact, Annotr, letitrip |
-| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) | Minimal runtime overhead | Porter, Pact |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Type safety | Porter, Churn |
-| ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white) | Fast JS runtime | Porter |
-| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) | Deployments and edge delivery | Production apps |
-| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | Lightweight embedded data layer | Backends |
-
-</div>
 
 ---
 
