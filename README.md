@@ -49,7 +49,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
-<img src="https://img.shields.io/badge/BentoTUI-v0.2.0-FF5F87?style=flat-square" alt="BentoTUI"/>
+<img src="https://img.shields.io/badge/BentoTUI-v0.6.0-FF5F87?style=flat-square" alt="BentoTUI"/>
 </td>
 </tr>
 <tr>
