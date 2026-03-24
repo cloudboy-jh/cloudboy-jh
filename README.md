@@ -66,9 +66,10 @@ I build focused tools that solve real problems and stay out of your way.
 </td>
 <td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentodiffs">
-<br>
-<b>BentoDiffs</b>
+<img src="https://raw.githubusercontent.com/cloudboy-jh/bentodiffs/main/bento-diffs-readme.png" width="180" alt="BentoDiffs"/>
 </a>
+<br><br>
+<b>BentoDiffs</b>
 <br>
 <small>Terminal diff tool with a full standalone TUI app shell and an embeddable Go viewer package</small>
 <br><br>
