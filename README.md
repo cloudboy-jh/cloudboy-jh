@@ -24,7 +24,7 @@ I build focused tools that solve real problems and stay out of your way.
 <div align="center">
 <table>
 <tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentotui">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
 </a>
@@ -36,9 +36,7 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
 </td>
-</tr>
-<tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="180" alt="glib"/>
 </a>
@@ -53,7 +51,7 @@ I build focused tools that solve real problems and stay out of your way.
 </td>
 </tr>
 <tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/porter">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/porter-logo-readme.png" width="180" alt="Porter"/>
 </a>
@@ -66,51 +64,20 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </td>
+<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/bentodiffs">
+<br>
+<b>BentoDiffs</b>
+</a>
+<br>
+<small>Terminal diff tool with a full standalone TUI app shell and an embeddable Go viewer package</small>
+<br><br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
+</td>
 </tr>
 </table>
 </div>
-
-<br>
-
-<details>
-<summary><b>Other Projects</b></summary>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/cloudboy-jh/pact"><b>Pact</b></a>
-<br>
-<small>Cross-platform dev environment manager</small>
-<br>
-<img src="https://img.shields.io/github/stars/cloudboy-jh/pact?style=flat-square&color=00ADD8&label=%20" alt="Stars"/>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/cloudboy-jh/churn"><b>Churn</b></a>
-<br>
-<small>Strips your codebase down to what the agent actually needs</small>
-<br>
-<img src="https://img.shields.io/github/stars/cloudboy-jh/churn?style=flat-square&color=ff5656&label=%20" alt="Stars"/>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/cloudboy-jh/annotr"><b>Annotr</b></a>
-<br>
-<small>AI-generated inline code comments via tree-sitter</small>
-<br>
-<img src="https://img.shields.io/github/stars/cloudboy-jh/annotr?style=flat-square&color=a855f7&label=%20" alt="Stars"/>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/cloudboy-jh/letitrip"><b>letitrip</b></a>
-<br>
-<small>Rips CDs to Spotify</small>
-<br>
-<img src="https://img.shields.io/github/stars/cloudboy-jh/letitrip?style=flat-square&color=red&label=%20" alt="Stars"/>
-</td>
-</tr>
-</table>
-
-</details>
 
 ---
 
