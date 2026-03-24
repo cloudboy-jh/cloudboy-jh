@@ -43,7 +43,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <b>glib</b>
 <br>
-<small>Terminal workspace combining project switching, git, and an AI agent session</small>
+<small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent</small>
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
