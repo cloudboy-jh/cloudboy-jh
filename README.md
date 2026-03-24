@@ -71,7 +71,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <b>BentoDiffs</b>
 <br>
-<small>Terminal diff tool with a full standalone TUI app shell and an embeddable Go viewer package</small>
+<small>Diff Libarary to use in your terminal apps</small>
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
