@@ -24,7 +24,7 @@ I build focused tools that solve real problems and stay out of your way.
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentotui">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
 </a>
@@ -36,7 +36,9 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
 </td>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="180" alt="glib"/>
 </a>
@@ -51,20 +53,7 @@ I build focused tools that solve real problems and stay out of your way.
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/porter">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/porter/master/porter-logo-readme.png" width="180" alt="Porter"/>
-</a>
-<br><br>
-<b>Porter</b>
-<br>
-<small>Turns GitHub Issues into executable workflows</small>
-<br><br>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte"/>
-<img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-</td>
-<td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentodiffs">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/bentodiffs/main/bento-diffs-readme.png" width="180" alt="BentoDiffs"/>
 </a>
