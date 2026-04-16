@@ -14,7 +14,7 @@
 
 ### About
 
-Self-taught — came from sales in 2024, learned by shipping.
+Self-taught — came from software sales in 2024, learned by shipping.
 I build focused tools that solve real problems and stay out of your way.
 
 ---
