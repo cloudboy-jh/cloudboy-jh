@@ -39,6 +39,21 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/shipwrkrs">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/shipwrkrs/main/shipwrkrs-readme-logo.png" width="180" alt="shipwrkrs"/>
+</a>
+<br><br>
+<b>shipwrkrs</b>
+<br>
+<small>Describe a Worker in plain English, generate code, review it, and deploy from one app</small>
+<br><br>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="180" alt="glib"/>
 </a>
