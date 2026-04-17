@@ -45,7 +45,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <b>shipwrkrs</b>
 <br>
-<small>Describe a Worker in plain English, generate code, review it, and deploy from one app</small>
+<small>Describe a Worker in plain English, generate code, review it, and deploy to Cloudflare from one app</small>
 <br><br>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
