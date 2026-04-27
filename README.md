@@ -26,21 +26,22 @@ I build focused tools that solve real problems and stay out of your way.
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib-code">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="180" alt="glib-code"/>
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/glibcode-wordmark.png" width="180" alt="glib-code"/>
 </a>
 <br><br>
 <b>glib-code</b>
 <br>
-<small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent</small>
+<small>Review-first AI coding workspace</small>
 <br><br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
-<img src="https://img.shields.io/badge/BentoTUI-v0.6.0-FF5F87?style=flat-square" alt="BentoTUI"/>
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <br><br>
 <details>
-<summary><b>▸ glib dropdown</b></summary>
+<summary><b>▸ glib</b></summary>
 <br>
-<small>glib-code is the core terminal experience focused on developer flow: context loading, git operations, and inline review tools.</small>
+<small>Browse git context first, then prompt with grounded context. Bun + Hono backend with a Vue frontend.</small>
 </details>
 </td>
 </tr>
@@ -62,15 +63,15 @@ I build focused tools that solve real problems and stay out of your way.
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/gittrix">
-<img src="https://opengraph.githubassets.com/1/cloudboy-jh/gittrix" width="180" alt="gittrix"/>
+<img src="https://raw.githubusercontent.com/cloudboy-jh/gittrix/main/gittrix.png" width="180" alt="gittrix"/>
 </a>
 <br><br>
 <b>gittrix</b>
 <br>
-<small>Git-focused tooling and workflows for fast terminal-first development</small>
+<small>Storage router for AI coding workflows with human-gated promotion</small>
 <br><br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </td>
 </tr>
 <tr>
@@ -87,7 +88,7 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
 <br><br>
 <details>
-<summary><b>▸ BentoDiffs dropdown</b></summary>
+<summary><b>▸ BentoDiffs</b></summary>
 <br>
 <a href="https://github.com/cloudboy-jh/bentodiffs"><b>BentoDiffs</b></a><br>
 <small>Diff library to use in your terminal apps</small>
