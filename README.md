@@ -39,13 +39,13 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <br><br>
 <details>
-<summary><b>▸ glib</b></summary>
+<summary><b>glib</b></summary>
 <br>
-<a href="https://github.com/cloudboy-jh/glib-code">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/glibcode-wordmark.png" width="260" alt="glib-code"/>
+<a href="https://github.com/cloudboy-jh/glib">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="260" alt="glib"/>
 </a>
 <br><br>
-<small>Browse git context first, then prompt with grounded context. Bun + Hono backend with a Vue frontend.</small>
+<small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent.</small>
 </details>
 </td>
 </tr>
@@ -92,7 +92,7 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
 <br><br>
 <details>
-<summary><b>▸ BentoDiffs</b></summary>
+<summary><b>BentoDiffs</b></summary>
 <br>
 <a href="https://github.com/cloudboy-jh/bentodiffs">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/bentodiffs/main/bento-diffs-readme.png" width="260" alt="BentoDiffs"/>
