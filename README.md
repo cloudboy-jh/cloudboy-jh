@@ -25,16 +25,23 @@ I build focused tools that solve real problems and stay out of your way.
 <table>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/bentotui">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
+<a href="https://github.com/cloudboy-jh/glib-code">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="180" alt="glib-code"/>
 </a>
 <br><br>
-<b>BentoTUI</b>
+<b>glib-code</b>
 <br>
-<small>The application framework for Bubble Tea terminal apps</small>
+<small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent</small>
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
+<img src="https://img.shields.io/badge/BentoTUI-v0.6.0-FF5F87?style=flat-square" alt="BentoTUI"/>
+<br><br>
+<details>
+<summary><b>▸ glib dropdown</b></summary>
+<br>
+<small>glib-code is the core terminal experience focused on developer flow: context loading, git operations, and inline review tools.</small>
+</details>
 </td>
 </tr>
 <tr>
@@ -54,31 +61,37 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/glib">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="180" alt="glib"/>
+<a href="https://github.com/cloudboy-jh/gittrix">
+<img src="https://opengraph.githubassets.com/1/cloudboy-jh/gittrix" width="180" alt="gittrix"/>
 </a>
 <br><br>
-<b>glib</b>
+<b>gittrix</b>
 <br>
-<small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent</small>
+<small>Git-focused tooling and workflows for fast terminal-first development</small>
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
-<img src="https://img.shields.io/badge/BentoTUI-v0.6.0-FF5F87?style=flat-square" alt="BentoTUI"/>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </td>
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/bentodiffs">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/bentodiffs/main/bento-diffs-readme.png" width="180" alt="BentoDiffs"/>
+<a href="https://github.com/cloudboy-jh/bentotui">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
 </a>
 <br><br>
-<b>BentoDiffs</b>
+<b>BentoTUI</b>
 <br>
-<small>Diff library to use in your terminal apps</small>
+<small>The application framework for Bubble Tea terminal apps</small>
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
+<br><br>
+<details>
+<summary><b>▸ BentoDiffs dropdown</b></summary>
+<br>
+<a href="https://github.com/cloudboy-jh/bentodiffs"><b>BentoDiffs</b></a><br>
+<small>Diff library to use in your terminal apps</small>
+</details>
 </td>
 </tr>
 </table>
