@@ -41,6 +41,10 @@ I build focused tools that solve real problems and stay out of your way.
 <details>
 <summary><b>▸ glib</b></summary>
 <br>
+<a href="https://github.com/cloudboy-jh/glib-code">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/glibcode-wordmark.png" width="260" alt="glib-code"/>
+</a>
+<br><br>
 <small>Browse git context first, then prompt with grounded context. Bun + Hono backend with a Vue frontend.</small>
 </details>
 </td>
@@ -90,6 +94,10 @@ I build focused tools that solve real problems and stay out of your way.
 <details>
 <summary><b>▸ BentoDiffs</b></summary>
 <br>
+<a href="https://github.com/cloudboy-jh/bentodiffs">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/bentodiffs/main/bento-diffs-readme.png" width="260" alt="BentoDiffs"/>
+</a>
+<br><br>
 <a href="https://github.com/cloudboy-jh/bentodiffs"><b>BentoDiffs</b></a><br>
 <small>Diff library to use in your terminal apps</small>
 </details>
