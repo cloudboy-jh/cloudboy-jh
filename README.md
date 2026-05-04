@@ -51,6 +51,20 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/gittrix">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/gittrix/main/gittrix.png" width="180" alt="gittrix"/>
+</a>
+<br><br>
+<b>gittrix</b>
+<br>
+<small>Storage router for AI coding workflows with human-gated promotion</small>
+<br><br>
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/shipwrkrs">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/shipwrkrs/main/shipwrkrs-readme-logo.png" width="180" alt="shipwrkrs"/>
 </a>
@@ -62,20 +76,6 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/gittrix">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/gittrix/main/gittrix.png" width="180" alt="gittrix"/>
-</a>
-<br><br>
-<b>gittrix</b>
-<br>
-<small>Storage router for AI coding workflows with human-gated promotion</small>
-<br><br>
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </td>
 </tr>
 <tr>
