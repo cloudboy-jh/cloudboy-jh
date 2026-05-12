@@ -65,6 +65,20 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/suitener">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/suitener/main/suitener-logo-readme.png" width="180" alt="Suitener"/>
+</a>
+<br><br>
+<b>Suitener</b>
+<br>
+<small>Bun-native test suite tool for agentic backend development</small>
+<br><br>
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/shipwrkrs">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/shipwrkrs/main/shipwrkrs-readme-logo.png" width="180" alt="shipwrkrs"/>
 </a>
@@ -78,6 +92,13 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
 </td>
 </tr>
+</table>
+
+<details>
+<summary><b>Other Projects</b></summary>
+<br>
+
+<table>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentotui">
@@ -104,6 +125,8 @@ I build focused tools that solve real problems and stay out of your way.
 </td>
 </tr>
 </table>
+
+</details>
 </div>
 
 ---
