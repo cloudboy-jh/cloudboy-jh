@@ -26,7 +26,7 @@ I build focused tools that solve real problems and stay out of your way.
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib-code">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/glibcode-wordmark.png" width="180" alt="glib-code"/>
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/assets/glibcode-wordmark.png" width="180" alt="glib-code"/>
 </a>
 <br><br>
 <b>glib-code</b>
