@@ -51,6 +51,19 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/Mimir">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/Mimir/master/mimir-readme.png" width="180" alt="Mimir"/>
+</a>
+<br><br>
+<b>Mimir</b>
+<br>
+<small>Agent-driven code and session memory</small>
+<br><br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/gittrix">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/gittrix/main/gittrix.png" width="180" alt="gittrix"/>
 </a>
@@ -75,21 +88,6 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/shipwrkrs">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/shipwrkrs/main/shipwrkrs-readme-logo.png" width="180" alt="shipwrkrs"/>
-</a>
-<br><br>
-<b>shipwrkrs</b>
-<br>
-<small>Describe a Worker in plain English, generate code, review it, and deploy to Cloudflare from one app</small>
-<br><br>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
 </td>
 </tr>
 </table>
