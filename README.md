@@ -25,6 +25,19 @@ I build focused tools that solve real problems and stay out of your way.
 <table>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/Mimir">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/Mimir/master/assets/images/mimir-readme.png" width="180" alt="Mimir"/>
+</a>
+<br><br>
+<b>Mimir</b>
+<br>
+<small>Agent-driven code and session memory</small>
+<br><br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib-code">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/assets/glibcode-wordmark.png" width="180" alt="glib-code"/>
 </a>
@@ -47,19 +60,6 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent.</small>
 </details>
-</td>
-</tr>
-<tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/Mimir">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/Mimir/master/mimir-readme.png" width="180" alt="Mimir"/>
-</a>
-<br><br>
-<b>Mimir</b>
-<br>
-<small>Agent-driven code and session memory</small>
-<br><br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 </td>
 </tr>
 <tr>
