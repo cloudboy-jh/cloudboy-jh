@@ -42,32 +42,6 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/glib-code">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/assets/glibcode-wordmark.png" width="180" alt="glib-code"/>
-</a>
-<br><br>
-<b>glib-code</b>
-<br>
-<small>Review-first AI coding workspace</small>
-<br><br>
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<br><br>
-<details>
-<summary><b>glib</b></summary>
-<br>
-<a href="https://github.com/cloudboy-jh/glib">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="260" alt="glib"/>
-</a>
-<br><br>
-<small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent.</small>
-</details>
-</td>
-</tr>
-<tr>
-<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/gittrix">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/gittrix/main/gittrix.png" width="180" alt="gittrix"/>
 </a>
@@ -101,6 +75,32 @@ I build focused tools that solve real problems and stay out of your way.
 <br>
 
 <table>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/glib-code">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib-code/main/assets/glibcode-wordmark.png" width="180" alt="glib-code"/>
+</a>
+<br><br>
+<b>glib-code</b>
+<br>
+<small>Review-first AI coding workspace (Paused)</small>
+<br><br>
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<br><br>
+<details>
+<summary><b>glib</b></summary>
+<br>
+<a href="https://github.com/cloudboy-jh/glib">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/glib/main/header.png" width="260" alt="glib"/>
+</a>
+<br><br>
+<small>Terminal workspace combining repo context, BentoDiffs, full Gitops, and Pi-agent.</small>
+</details>
+</td>
+</tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentotui">
