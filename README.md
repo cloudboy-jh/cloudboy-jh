@@ -31,7 +31,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <b>Mimir</b>
 <br>
-<small>Durable session memory for coding agents</small>
+<small>Durable session memory for agents</small>
 <br><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
