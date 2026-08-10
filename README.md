@@ -53,16 +53,27 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/suitener">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/suitener/main/suitener-logo-readme.png" width="180" alt="Suitener"/>
+<a href="https://github.com/cloudboy-jh/bentotui">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
 </a>
 <br><br>
-<b>Suitener</b>
+<b>BentoTUI</b>
 <br>
-<small>Bun-native test suite tool for agentic backend development</small>
+<small>The application framework for Bubble Tea terminal apps</small>
 <br><br>
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
+<br><br>
+<details>
+<summary><b>BentoDiffs</b></summary>
+<br>
+<a href="https://github.com/cloudboy-jh/bentodiffs">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/bentodiffs/main/bento-diffs-readme.png" width="260" alt="BentoDiffs"/>
+</a>
+<br><br>
+<a href="https://github.com/cloudboy-jh/bentodiffs"><b>BentoDiffs</b></a><br>
+<small>Diff library to use in your terminal apps</small>
+</details>
 </td>
 </tr>
 </table>
@@ -100,27 +111,16 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/bentotui">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/bentotui/main/bentotui-readme-logo.png" width="180" alt="BentoTUI"/>
+<a href="https://github.com/cloudboy-jh/suitener">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/suitener/main/suitener-logo-readme.png" width="180" alt="Suitener"/>
 </a>
 <br><br>
-<b>BentoTUI</b>
+<b>Suitener</b>
 <br>
-<small>The application framework for Bubble Tea terminal apps</small>
+<small>Bun-native test suite tool for agentic backend development</small>
 <br><br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Bubble%20Tea-FF5F87?style=flat-square" alt="Bubble Tea"/>
-<br><br>
-<details>
-<summary><b>BentoDiffs</b></summary>
-<br>
-<a href="https://github.com/cloudboy-jh/bentodiffs">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/bentodiffs/main/bento-diffs-readme.png" width="260" alt="BentoDiffs"/>
-</a>
-<br><br>
-<a href="https://github.com/cloudboy-jh/bentodiffs"><b>BentoDiffs</b></a><br>
-<small>Diff library to use in your terminal apps</small>
-</details>
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </td>
 </tr>
 </table>
