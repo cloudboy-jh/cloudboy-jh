@@ -45,7 +45,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <b>gittrix</b>
 <br>
-<small>Storage router for AI coding workflows with human-gated promotion</small>
+<small>Write isolation for AI agents</small>
 <br><br>
 <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
