@@ -33,7 +33,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br>
 <small>A terminal and multiplexer in one</small>
 <br><br>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/Rust-fb542b?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
 </td>
 </tr>
 <tr>
