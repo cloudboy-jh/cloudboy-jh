@@ -25,6 +25,19 @@ I build focused tools that solve real problems and stay out of your way.
 <table>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/compi">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/compi/main/assets/compi-readme.png" width="180" alt="Compi"/>
+</a>
+<br><br>
+<b>Compi</b>
+<br>
+<small>A terminal and multiplexer in one</small>
+<br><br>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/Mimir">
 <img src="https://raw.githubusercontent.com/cloudboy-jh/Mimir/master/assets/images/mimir-readme.png" width="180" alt="Mimir"/>
 </a>
