@@ -52,11 +52,26 @@ I build focused tools that solve real problems and stay out of your way.
 </tr>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-<a href="https://github.com/cloudboy-jh/gittrix">
-<img src="https://raw.githubusercontent.com/cloudboy-jh/gittrix/main/gittrix.png" width="180" alt="gittrix"/>
+<a href="https://github.com/cloudboy-jh/orangebox">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/orangebox/main/assets/orange-box-readme.png" width="180" alt="Orangebox"/>
 </a>
 <br><br>
-<b>gittrix</b>
+<b>Orangebox</b>
+<br>
+<small>Personal file browser and upload-only file drop on Cloudflare</small>
+<br><br>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<a href="https://github.com/cloudboy-jh/gittrix">
+<img src="https://raw.githubusercontent.com/cloudboy-jh/gittrix/main/gittrix.png" width="180" alt="GitTrix"/>
+</a>
+<br><br>
+<b>GitTrix</b>
 <br>
 <small>Write isolation for AI agents</small>
 <br><br>
@@ -64,6 +79,13 @@ I build focused tools that solve real problems and stay out of your way.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </td>
 </tr>
+</table>
+
+<details>
+<summary><b>Other Projects</b></summary>
+<br>
+
+<table>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/bentotui">
@@ -89,13 +111,6 @@ I build focused tools that solve real problems and stay out of your way.
 </details>
 </td>
 </tr>
-</table>
-
-<details>
-<summary><b>Other Projects</b></summary>
-<br>
-
-<table>
 <tr>
 <td align="center" width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 <a href="https://github.com/cloudboy-jh/glib-code">
