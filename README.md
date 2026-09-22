@@ -60,7 +60,6 @@ I build focused tools that solve real problems and stay out of your way.
 <br>
 <small>Personal file browser and upload-only file drop on Cloudflare</small>
 <br><br>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </td>
