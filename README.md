@@ -31,7 +31,7 @@ I build focused tools that solve real problems and stay out of your way.
 <br><br>
 <b>Compi</b>
 <br>
-<small>A terminal and multiplexer in one</small>
+<small>A workspace for your software factory.</small>
 <br><br>
 <img src="https://img.shields.io/badge/Rust-fb542b?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
 </td>
